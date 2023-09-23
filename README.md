@@ -19,7 +19,7 @@ This Employee review web application is created for employees to submit feedback
 
 ## How to setup the project on local system
 
-- Clone this project from https://github.com/kunaldeep799/Employee-Review-System.git
+- Clone this project from https://github.com/faheem918/employee-review-system
 - Start by installing npm if you don't have it already.
 - Navigate to Project Directory and run the following the command.
 
